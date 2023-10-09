@@ -8,7 +8,7 @@ import cmd_udp
 from datetime import datetime
 from v720_http import v720_http
 
-HTTP_PORT = 80
+HTTP_PORT = 8002
 
 FSM_NONE = '-'
 FSM_HEARBEAT = 'hearbeat'

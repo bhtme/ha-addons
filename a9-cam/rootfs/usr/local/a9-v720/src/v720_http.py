@@ -21,7 +21,7 @@ from netcl_udp import netcl_udp
 from v720_sta import v720_sta 
 
 TCP_PORT = 6123
-HTTP_PORT = 80
+HTTP_PORT = 8002
 
 def put_nowait_or_clear_if_full(q:Queue, frame):
     try:
