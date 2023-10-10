@@ -1,14 +1,16 @@
-# a9 add on
+# A9 Camera Server
+
+Forked from https://github.com/dbuezas/a9-camera-ha-add-on
 
 <img width="826" alt="image" src="https://github.com/dbuezas/a9-camera-ha-add-on/assets/777196/8ea61525-02b7-40ac-8853-0c2f63285a2d">
 
 ## Instructions
 
-1. Get the camera to connect to your access point (with the app or following instructions in https://github.com/intx82/a9-v720)
+1. Get the camera to connect to your access point (with the app or following instructions in https://github.com/bhtme/ha-addons)
 2. Reroute \*.naxclow.com to your HA computer IP (e.g using the AdGuard addon and configuring your router to use that as DNS provider)
 3. [![Open your Home Assistant instance and show the Supervisor add-on store.](https://my.home-assistant.io/badges/supervisor_store.svg)](https://my.home-assistant.io/redirect/supervisor_store/)
 4. Click on the three dots overflow menu on the top right, then `Repositories`
-5. Add https://github.com/dbuezas/ha-addons
+5. Add https://github.com/bhtme/ha-addons
 6. There should now be a "A9 Fake camera server" addon.
 7. Install and start it.
 8. (restart the camera if you have one with newer FW version)
