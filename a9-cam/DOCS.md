@@ -1,6 +1,8 @@
 # a9 add on
 
-This addon https://github.com/dbuezas/a9-camera-ha-add-on
+This addon https://github.com/bhtme/ha-addons
+
+Forked from https://github.com/dbuezas/a9-camera-ha-add-on
 
 Python code derived from https://github.com/intx82/a9-v720/ with these changes:
 

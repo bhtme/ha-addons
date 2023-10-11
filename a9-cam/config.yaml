@@ -15,8 +15,9 @@ arch:
   - armv7
   - i386
 ingress: true
-ingress_port: 80
+ingress_port: 8002
 host_network: true
+panel_icon: mdi:cctv
 # ports_description:
 #   80/tcp: The local server where the stream is exposed
 #   29940/tcp: unknown
