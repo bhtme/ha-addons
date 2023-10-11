@@ -1,6 +1,6 @@
 ---
 name: A9 Camera Server
-version: 2.4
+version: 2.5
 slug: a9-cam
 description: A9 camera local server
 url: https://github.com/bhtme/ha-addons
